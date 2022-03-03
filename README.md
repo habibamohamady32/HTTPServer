@@ -1,5 +1,5 @@
 # How to run HTTPServer project without any trouble
- make sure that both files -inetpub and Template[2021-2022]- are in C partition.
+ make sure that both inetpub and projet folders are in C partition.
  
  
  
